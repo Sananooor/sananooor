@@ -34,9 +34,6 @@ Founder, Computational Biologist & Bioinformatics Consultant
 - **Kupffer Cell Project in HCC (Liver Cancer)**  
   Contributed computational insights into immune cells’ roles in the tumour microenvironment.
 
-- **Published & Preprint Articles**  
-  _Ask me for links to my latest papers!_
-
 ---
 
 ### Social Links  
