@@ -41,7 +41,8 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ### Social Links  
 - [LinkedIn](https://www.linkedin.com/in/sana-noor-7a1327116)  
-- [Genetic Codon (Website)](https://geneticcodon.com)  
+- [Genetic Codon (Website)](https://geneticcodon.com)
+- [Astraea Bio Website](https://astraeabio.com/)
 <!-- Add more: Twitter, ResearchGate, etc., as desired -->
 
 ---
