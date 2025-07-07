@@ -3,6 +3,7 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 **Founder & CEO, Genetic Codon**  
 *Empowering research through innovative bioinformatics, training, and collaboration*
+**Spatial Biology Data Analyst @AstraeaBio**
 
 ---
 
