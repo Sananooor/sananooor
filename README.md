@@ -49,9 +49,7 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ### Fun Facts & Bio
 
-I’m passionate about bridging the gap between wet-lab biology and computational analysis, making complex science approachable and actionable for all. Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (the Netherlands is on my dream list!).  
+I’m passionate about bridging the gap between wet-lab biology and computational analysis, making complex science approachable and actionable for all. Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
 
 **Fun fact:** I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
 
-**Short Bio:**  
-Sana Noor is a computational biologist, entrepreneur, and founder of Genetic Codon. With a background in molecular genetics and expertise spanning multi-omics, spatial biology, and scientific communication, she is dedicated to empowering the next generation of bioinformaticians. Sana leads international collaborations, provides hands-on training, and is always on the lookout for exciting new projects at the intersection of biology and data science.
