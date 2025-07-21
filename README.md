@@ -28,12 +28,6 @@ Founder, Computational Biologist & Bioinformatics Consultant
 - **Parkinson’s Disease Multi-Omics Project**  
   Leading a Genetic Codon team integrating single-cell, bulk transcriptomics, and mutation analysis to uncover new insights into Parkinson’s disease.
 
-- **Spatial Transcriptomics Analyst, AstraeaBio**  
-  Advanced analysis and annotation of spatial omics datasets for brain and cancer research.
-
-- **Founder, Genetic Codon**  
-  Built a unique platform from scratch to provide accessible research, mentorship, and upskilling for students and early-career researchers.
-
 - **Kupffer Cell Project in HCC (Liver Cancer)**  
   Contributed computational insights into immune cells’ roles in the tumour microenvironment.
 
