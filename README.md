@@ -43,7 +43,7 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ### Fun Facts & Bio
 
-I’m passionate about bridging the gap between wet-lab biology and computational analysis, making complex science approachable and actionable for all. Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
+Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
 
 **Fun fact:** I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
 
