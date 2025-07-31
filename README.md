@@ -1,12 +1,6 @@
 ## Sana Noor  
 Founder, Computational Biologist & Bioinformatics Consultant
 
-**Founder & CEO, Genetic Codon**  
-*Empowering research through innovative bioinformatics, training, and collaboration*
-
-
-**Spatial Biology Data Analyst @AstraeaBio**
-
 ---
 
 ### Core Skills & Technologies
@@ -30,14 +24,6 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 - **Kupffer Cell Project in HCC (Liver Cancer)**  
   Contributed computational insights into immune cells’ roles in the tumour microenvironment.
-
----
-
-### Social Links  
-- [LinkedIn](https://www.linkedin.com/in/sana-noor-7a1327116)  
-- [Genetic Codon (Website)](https://geneticcodon.com)
-- [Astraea Bio Website](https://astraeabio.com/)
-<!-- Add more: Twitter, ResearchGate, etc., as desired -->
 
 ---
 
