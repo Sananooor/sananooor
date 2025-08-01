@@ -11,11 +11,3 @@
 - **Scientific Communication**  
   (Manuscript writing, mentoring, workshop facilitation)
 
----
-
-### Fun Facts
-
-**Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
-
-**I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
-
