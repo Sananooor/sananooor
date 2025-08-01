@@ -17,16 +17,6 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ---
 
-### Featured Projects & Achievements
-
-- **Parkinson’s Disease Multi-Omics Project**  
-  Leading a Genetic Codon team integrating single-cell, bulk transcriptomics, and mutation analysis to uncover new insights into Parkinson’s disease.
-
-- **Kupffer Cell Project in HCC (Liver Cancer)**  
-  Contributed computational insights into immune cells’ roles in the tumour microenvironment.
-
----
-
 ### Fun Facts & Bio
 
 Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
