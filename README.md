@@ -5,7 +5,7 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ### Core Skills & Technologies
 - **Bioinformatics & Multi-Omics Data Analysis**  
-  (Bulk/single-cell RNA-seq, spatial transcriptomics, proteomics)
+  (Bulk/single-cell RNA-seq, spatial transcriptomics, proteomics, metabolomics)
 - **Scientific Project Management**  
   (Ideation to publication, team leadership, client consulting)
 - **Python & R Programming**  
@@ -17,9 +17,8 @@ Founder, Computational Biologist & Bioinformatics Consultant
 
 ---
 
-### Fun Facts & Bio
+### Fun Facts
 
 Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
-
-**Fun fact:** I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
+I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
 
