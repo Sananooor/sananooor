@@ -1,4 +1,5 @@
 ### Core Skills & Technologies
+
 - **Bioinformatics & Multi-Omics Data Analysis**  
   (Bulk/single-cell RNA-seq, spatial transcriptomics, proteomics, metabolomics)
 - **Scientific Project Management**  
@@ -14,7 +15,7 @@
 
 ### Fun Facts
 
-Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
+**Outside of research, you’ll find me writing poems and prose, mentoring students, binge-watching crime thrillers, and planning my next travel adventure (A lot is on my dream list!).  
 
-I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
+**I’ve worn glasses since 6th grade, but seeing the “big picture” in science has always come naturally.
 
